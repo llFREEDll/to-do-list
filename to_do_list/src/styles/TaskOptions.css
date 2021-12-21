@@ -1,0 +1,16 @@
+.custom-input{
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding: .375rem .75rem;
+}
+.col-4{
+    width: 25%;
+    position: relative;
+    box-sizing: border-box;
+}
+.task-options{
+    margin-top: 30px;
+    display: flex;
+}
